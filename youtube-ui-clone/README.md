@@ -23,15 +23,9 @@ assets/screenshots/youtube-ui.png
 
 ---
 
-## 🚀 Run Locally
+## 🚀 Live Demo
 
-Open:
-
-```text
-index.html
-```
-
-in your browser.
+👉 Test it here: https://zeyadbadawyy.github.io/frontend-playground/youtube-ui-clone/
 
 ---
 
