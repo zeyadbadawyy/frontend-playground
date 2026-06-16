@@ -38,3 +38,4 @@ This project is an educational UI recreation and is not affiliated with, endorse
 ## 👨‍💻 Author
 
 **Zeyad Badawy**
+Full-Stack Developer | Software Engineer
