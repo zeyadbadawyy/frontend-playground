@@ -47,4 +47,4 @@ This repository serves as a playground for experimenting with:
 
 **Zeyad Badawy**
 
-Frontend Developer • Software Engineer
+Full-Stack Developer | Software Engineer
